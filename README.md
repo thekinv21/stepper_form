@@ -1,8 +1,17 @@
-# React + Vite
+# Step By Step Form with Validation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* Using formik and Yup
 
-Currently, two official plugins are available:
+# Project Look like
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* first views
+
+![1](https://github.com/thekinv21/Stepper-Form/assets/92122363/8a063520-712c-4054-9e7e-ff7ceade6cf4)
+
+* if you don't required some input
+  
+![2](https://github.com/thekinv21/Stepper-Form/assets/92122363/9fef8bf4-ef9f-468a-a0fa-93d16f4c85cf)
+
+* if you required and click next
+
+![3](https://github.com/thekinv21/Stepper-Form/assets/92122363/a57fccd5-cb07-4efd-acf6-830a5ddf6f62)
